@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: lumina-ai
+    env: docker
+    plan: free
